@@ -18,7 +18,7 @@ Create a file inside myapp named "math.html" and write the code for website insi
 ### Step 6:
 Publish the website in the given URL.
 ## PROGRAM :
-
+```
 <html>
 <head>
 <meta charset='utf-8'>
@@ -82,7 +82,7 @@ Area : <input type="text" name="area" value="{{area}}"></input>m<sup>2</sup><br/
 </div>
 </body>
 </html>
-
+```
 ## OUTPUT:
 ![OUTPUT](calculator.png)
 ### Home Page:
