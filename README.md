@@ -84,9 +84,13 @@ Area : <input type="text" name="area" value="{{area}}"></input>m<sup>2</sup><br/
 </html>
 ```
 ## OUTPUT:
-![OUTPUT](calculator.png)
-### Home Page:
-![OUTPUT](homepage.png)
+![Screenshot (91)](https://user-images.githubusercontent.com/119557985/215417792-f5550718-de98-435e-81be-47bfa0b6baf6.png)
+
+![Screenshot (92)](https://user-images.githubusercontent.com/119557985/215417868-69656f54-a185-4ecd-9ac3-ec2501585ddc.png)
+
+
+![Screenshot (93)](https://user-images.githubusercontent.com/119557985/215417905-4ca6713f-85c2-4854-9373-4e5de2293333.png)
+
 
 ## Result:
 Thus a website to perform mathematical calculations in server side is designed.
